@@ -17,3 +17,4 @@ We offer you and university students versatile, easy to use and robust tutorials
 - Software-Hardware co-design using arm-hf and arm_x64 on raspberry pi and android.
 - Basic web development using javascript.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Google-Developers-Sohag&layout=compact)]
