@@ -8,11 +8,12 @@ We offer you and university students versatile, easy to use and robust tutorials
 - Basic Gradle and Groovy.
 - A variety of android applications use cases.
 - Android development portals (some useful tutorials and books recommended by the senior members).
-- Advanced Android development (WIP).
+- Advanced Android development.
 - Basic Flutter course.
 - Flutter-Android Platform channels.
-- Basic game development and vector maths tutorial using jMonkeyEngine and Space Shift scene editor (WIP).
-- Basic data science using python and R (WIP).
-- Basic embedded systems using C/C++ on avr (WIP).
+- Basic game development and vector maths tutorial using jMonkeyEngine and Space Shift scene editor.
+- Basic data science using python and R.
+- Basic embedded systems using C/C++ on avr.
+- Software-Hardware co-design using arm-hf and arm_x64 on raspberry pi and android.
 - Basic web development using javascript.
 
